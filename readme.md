@@ -6,9 +6,11 @@ Everything it does is also on the website. The app adds hotkeys, reading your wa
 
 ## Download
 
-Get the latest installer from **[Releases](../../releases/latest)**: the file ending in `-setup.exe`. Windows 10 or 11, 64-bit.
+Get the latest installer from the hermaion HQ Website, or directly from Github: the file ending in `-setup.exe`. Windows 10 or 11, 64-bit.
 
 It installs for your Windows user only, without admin rights, and updates itself after that.
+
+*The program requires a token from our website to function correctly*
 
 ## Install and connect (5 minutes)
 
